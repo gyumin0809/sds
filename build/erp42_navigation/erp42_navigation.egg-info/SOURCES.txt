@@ -4,7 +4,7 @@ setup.py
 erp42_navigation/__init__.py
 erp42_navigation/lidar_sensor_node.py
 erp42_navigation/obstacle_avoidance_node.py
-erp42_navigation/vehicle_driver_node.py
+erp42_navigation/vehicle_driver.py
 erp42_navigation.egg-info/PKG-INFO
 erp42_navigation.egg-info/SOURCES.txt
 erp42_navigation.egg-info/dependency_links.txt
