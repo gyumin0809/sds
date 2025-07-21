@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+erp42_navigation/__init__.py
+erp42_navigation/lidar_sensor_node.py
+erp42_navigation/obstacle_avoidance_node.py
+erp42_navigation/vehicle_driver_node.py
+erp42_navigation.egg-info/PKG-INFO
+erp42_navigation.egg-info/SOURCES.txt
+erp42_navigation.egg-info/dependency_links.txt
+erp42_navigation.egg-info/entry_points.txt
+erp42_navigation.egg-info/requires.txt
+erp42_navigation.egg-info/top_level.txt
+erp42_navigation.egg-info/zip-safe
+launch/obstacle_avoidance_launch.py
+resource/erp42_navigation
