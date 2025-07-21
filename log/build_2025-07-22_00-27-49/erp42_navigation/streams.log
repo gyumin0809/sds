@@ -1,0 +1,28 @@
+[0.408s] Invoking command in '/home/gyumin/erp42_ws/build/erp42_navigation': PYTHONPATH=/home/gyumin/erp42_ws/build/erp42_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gyumin/erp42_ws/install/erp42_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gyumin/erp42_ws/build/erp42_navigation/build --no-deps symlink_data
+[0.570s] running develop
+[0.656s] running egg_info
+[0.656s] creating erp42_navigation.egg-info
+[0.656s] writing erp42_navigation.egg-info/PKG-INFO
+[0.656s] writing dependency_links to erp42_navigation.egg-info/dependency_links.txt
+[0.657s] writing entry points to erp42_navigation.egg-info/entry_points.txt
+[0.657s] writing requirements to erp42_navigation.egg-info/requires.txt
+[0.657s] writing top-level names to erp42_navigation.egg-info/top_level.txt
+[0.657s] writing manifest file 'erp42_navigation.egg-info/SOURCES.txt'
+[0.658s] reading manifest file 'erp42_navigation.egg-info/SOURCES.txt'
+[0.658s] writing manifest file 'erp42_navigation.egg-info/SOURCES.txt'
+[0.659s] running build_ext
+[0.659s] Creating /home/gyumin/erp42_ws/install/erp42_navigation/lib/python3.10/site-packages/erp42-navigation.egg-link (link to .)
+[0.660s] Installing lidar_node script to /home/gyumin/erp42_ws/install/erp42_navigation/lib/erp42_navigation
+[0.660s] Installing obstacle_avoider script to /home/gyumin/erp42_ws/install/erp42_navigation/lib/erp42_navigation
+[0.660s] Installing vehicle_driver script to /home/gyumin/erp42_ws/install/erp42_navigation/lib/erp42_navigation
+[0.660s] 
+[0.660s] Installed /home/gyumin/erp42_ws/build/erp42_navigation
+[0.660s] running symlink_data
+[0.661s] creating /home/gyumin/erp42_ws/install/erp42_navigation/share/ament_index
+[0.661s] creating /home/gyumin/erp42_ws/install/erp42_navigation/share/ament_index/resource_index
+[0.661s] creating /home/gyumin/erp42_ws/install/erp42_navigation/share/ament_index/resource_index/packages
+[0.661s] symbolically linking /home/gyumin/erp42_ws/build/erp42_navigation/resource/erp42_navigation -> /home/gyumin/erp42_ws/install/erp42_navigation/share/ament_index/resource_index/packages
+[0.661s] symbolically linking /home/gyumin/erp42_ws/build/erp42_navigation/package.xml -> /home/gyumin/erp42_ws/install/erp42_navigation/share/erp42_navigation
+[0.661s] creating /home/gyumin/erp42_ws/install/erp42_navigation/share/erp42_navigation/launch
+[0.661s] symbolically linking /home/gyumin/erp42_ws/build/erp42_navigation/launch/obstacle_avoidance_launch.py -> /home/gyumin/erp42_ws/install/erp42_navigation/share/erp42_navigation/launch
+[0.690s] Invoked command in '/home/gyumin/erp42_ws/build/erp42_navigation' returned '0': PYTHONPATH=/home/gyumin/erp42_ws/build/erp42_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gyumin/erp42_ws/install/erp42_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/gyumin/erp42_ws/build/erp42_navigation/build --no-deps symlink_data

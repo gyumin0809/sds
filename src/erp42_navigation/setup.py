@@ -25,7 +25,7 @@ setup(
         'console_scripts': [
             'lidar_node = erp42_navigation.lidar_sensor_node:main',
             'obstacle_avoider = erp42_navigation.obstacle_avoidance_node:main',
-            'vehicle_driver = erp42_navigation.vehicle_driver_node:main',
+            'vehicle_driver = erp42_navigation.vehicle_driver:main',
         ],
     },
-)
+)  # 괄호가 닫히지 않아서 오류가 발생했음
